@@ -6,3 +6,4 @@ Cos w masterze napisa³em
 i coœ
 znowu
 terez u¿e haraszo
+on TV
