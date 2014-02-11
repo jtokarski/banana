@@ -1,3 +1,4 @@
 piersza inia
 A to druga linia
 na branczu
+doku zmianka na delopiii
