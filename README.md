@@ -11,3 +11,4 @@ you mony mony mony mieæ
 mabraczawczma
 
 a to na developie bêdzie
+a to inny komit te¿ odstêpowy na developie
