@@ -13,3 +13,5 @@ mabraczawczma
 a to na developie bêdzie
 a to inny komit te¿ odstêpowy na developie
 odstêp nr 3
+
+mid do FF'a
